@@ -1,0 +1,13 @@
+body { background-color: black;
+    font-family: sans-serif;
+}
+.LSNGT {
+    display: inline;
+    margin-left:70px;
+    color: white;
+}
+
+.STRIM{
+    text-align: center;
+    color: white;
+}
